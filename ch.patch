@@ -1,0 +1,51 @@
+diff django_couchdb/backends/couchdb/base.py git_djch/42-django-couchdb/django_couchdb/backends/couchdb/base.py
+45c45
+<             if settings is None:#patch
+---
+>             if settings is not None:
+Only in git_djch/42-django-couchdb/django_couchdb/backends/couchdb/: ch.patch
+diff django_couchdb/backends/couchdb/introspection.py git_djch/42-django-couchdb/django_couchdb/backends/couchdb/introspection.py
+15c15
+<         return cursor.server[table_name]['meta_'] #patch
+---
+>         return cursor.server[table_name]['_meta']
+diff django_couchdb/backends/couchdb/nodes.py git_djch/42-django-couchdb/django_couchdb/backends/couchdb/nodes.py
+60,61c60
+<         #params = '{'+','.join('%s: 1' % x for x in self.params) + '}'
+<         params = '{'+','.join('"%s": 1' % x for x in self.params) + '}'
+---
+>         params = '{'+','.join('%s: 1' % x for x in self.params) + '}'
+70,71c69
+<             #lookup = Lookup(*child)
+<             lookup = Lookup(*([child[0]]+list(child[1:])))#patch
+---
+>             lookup = Lookup(*child)
+diff django_couchdb/backends/couchdb/utils.py git_djch/42-django-couchdb/django_couchdb/backends/couchdb/utils.py
+71c71
+<         meta = {'_id': 'meta_'}
+---
+>         meta = {'_id': '_meta'}
+80c80
+<         table['meta_'] = meta
+---
+>         table['_meta'] = meta
+85c85
+<         meta = table['meta_']
+---
+>         meta = table['_meta']
+92c92
+<         table['meta_'] = meta
+---
+>         table['_meta'] = meta
+104c104
+<         views = process_views(table['meta_'], self.params[1], self.params[2])
+---
+>         views = process_views(table['_meta'], self.params[1], self.params[2])
+125c125
+<         views = process_views(table['meta_'], columns, views)
+---
+>         views = process_views(table['_meta'], columns, views)
+143c143
+<         map_fun += "if ("+table_name+"._id!=\"meta_\") {"
+---
+>         map_fun += "if ("+table_name+"._id!=\"_meta\") {"
