@@ -1,4 +1,12 @@
 #DSC - damnsimplecrawler.py
+"""
+Takes in URL(s) of resources with a flag for it being an RSS.
+Resolves the required class dynamically and Instantiate a 
+webpage or RSS crawler accordingly.
+Fetches the content of the web page and tokenize them into words.
+Build a frequency table for document versus terms.
+Try to cluster--NOT working properly right now, NEED TO FIX.
+"""
 import urllib2
 import BeautifulSoup
 import feedparser
