@@ -1,0 +1,6 @@
+def getIPAndDomains(filename):
+    mail = email.message_from_file(file('hardham/'+filename))
+    body = [each.get_payload() for each in mail.get_payload()]
+    headers = mail.items()
+    iprex = "(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)"
+    domainrex = "

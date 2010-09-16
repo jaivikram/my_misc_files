@@ -1,0 +1,31 @@
+root : root : Taxonomy : iNet : Competitive and Partner News : Company Website News
+root : root : Taxonomy : Departmental Feeds : Informatics
+root : root : Taxonomy : Departmental Feeds : Strategic Business Units
+root : root : Taxonomy : Departmental Feeds : Research and Development : Research Areas : Clinical Operations
+root : root : Taxonomy : Departmental Feeds : Research and Development : Research Areas : Regulatory Affairs : Regulatory Affairs / Drug Approvals News From Medical News Today
+root : root : Taxonomy : Departmental Feeds : Library : Text Mining
+root : root : Taxonomy : Departmental Feeds : Library : Digital Library
+root : root : Taxonomy : Departmental Feeds : Library : Library Mgmt
+root : root : Taxonomy : Departmental Feeds : the_company the_company News : Internal News : Global Company News
+root : root : Taxonomy : Departmental Feeds : the_company the_company News : Internal News : Site Related News : Cambridge Site
+root : root : Taxonomy : Departmental Feeds : the_company the_company News : Internal News : Site Related News : Nobel Site
+root : root : Taxonomy : Departmental Feeds : the_company the_company News : Internal News : Site Related News : RTP Site
+root : root : Taxonomy : Departmental Feeds : the_company the_company News : Internal News : Site Related News : Europe offices
+root : root : Taxonomy : Departmental Feeds : the_company the_company News : Internal News : Site Related News : Other offices
+root : root : Taxonomy : Departmental Feeds : the_company the_company News : Internal News : Social News : Cambridge Site
+root : root : Taxonomy : Departmental Feeds : the_company the_company News : Internal News : Social News : Nobel Site
+root : root : Taxonomy : Departmental Feeds : the_company the_company News : Internal News : Social News : RTP Site
+root : root : Taxonomy : Departmental Feeds : the_company the_company News : Internal News : Social News : Other offices
+root : root : Taxonomy : Departmental Feeds : the_company the_company News : Internal News : Departmental News
+root : root : Taxonomy : News : BioPharma News : Health News : BioSpace Industry News
+root : root : Taxonomy : News : BioPharma News : FDA News : Food and Drug Administration Press Releases
+root : root : Taxonomy : News : BioPharma News : FDA News : Recalls
+root : root : Taxonomy : News : BioPharma News : FDA News : Enforcement Report
+root : root : Taxonomy : News : BioPharma News : FDA News : Upcoming Meetings
+root : root : Taxonomy : News : BioPharma News : FDA News : What's New: Center for Drug Evaluation and Research
+root : root : Taxonomy : News : BioPharma News : FDA News : What's New: Center for Biologics Evaluation and Research
+root : root : Taxonomy : News : BioPharma News : FDA News : MedWatch Safety Alerts
+root : root : Taxonomy : News : BioPharma News : EMEA : News from EMEA from BioPortfolio.com
+root : root : Taxonomy : Company Clippings : Executive Team Clippings
+root : root : Taxonomy : Company Clippings : My Manager's Clippings
+root : root : Taxonomy : Company Clippings : My Team's Clippings

@@ -1,0 +1,317 @@
+<?xml version="1.0" ?>
+<outline title="[205] root">
+ <outline title="[205] Taxonomy">
+  <outline title="[9] iNet">
+   <outline title="[8] the_company the_company Public News">
+    <outline title="[7] the_company the_company Public News - raw feeds">
+     <outline htmlUrl="http://www.google.com/news?hl=en&amp;ned=us&amp;q=the_company+the_company&amp;ie=ISO-8859-1" title="the_company the_company - Google News" type="rss" xmlUrl="http://www.google.com/news?hl=en&amp;ned=us&amp;q=the_company+the_company&amp;ie=UTF-8&amp;output=rss"/>
+     <outline htmlUrl="http://finance.yahoo.com/q/h?s=the_company" title="the_company the_company - Yahoo Financial" type="rss" xmlUrl="http://finance.yahoo.com/rss/headline?s=the_company"/>
+     <outline htmlUrl="http://www.google.com/patents?q=the_company+the_company&amp;scoring=1&amp;ie=ISO-8859-1" title="the_company the_company - Google Patents" type="rss" xmlUrl="http://www.google.com/patents?q=the_company+the_company&amp;scoring=1&amp;output=rss"/>
+     <outline htmlUrl="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&amp;db=pubmed&amp;term=the_company%20OR%20the_company" title="PubMed: the_company or the_company" type="rss" xmlUrl="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=0Mhwgq1a2bzrBCUTBH3Rq0VziTco6cEmLcg-cm5om6Z"/>
+     <outline htmlUrl="http://feeds.the_company.com/ngweb/ngs/subscriber/Subscriptions.aspx?afid=-1" title="Email feed: SubmitPublicNews" type="rss" xmlUrl="http://camlibp03/ngws/svc/EMailRSS.aspx?fid=4"/>
+     <outline htmlUrl="http://feeds.the_company.com/ngweb/ngs/subscriber/Subscriptions.aspx?afid=-1" title="Smart Feed: Incoming Links to www.the_company.com" type="rss" xmlUrl="http://camlibp03/ngws/svc/SmartRSS.aspx?fid=13"/>
+     <outline title="Smart Feed: the_company the_company" type="rss" xmlUrl="http://camlibp03/ngws/svc/SmartRSS.aspx?fid=12"/>
+    </outline>
+    <outline title="the_company the_company Public News" type="rss" xmlUrl="http://feeds.the_company.com/ngws/svc/ClippingsRSS.aspx?grp=6"/>
+   </outline>
+   <outline title="[1] Competitive and Partner News">
+    <outline title="Company Website News"/>
+    <outline title="Competitive and Partner News" type="rss" xmlUrl="http://camlibp03/ngws/svc/ClippingsRSS.aspx?grp=7"/>
+   </outline>
+  </outline>
+  <outline title="[139] Departmental Feeds">
+   <outline title="[17] Marketing">
+    <outline htmlUrl="http://www.clickz.com/" title="ClickZ News" type="rss" xmlUrl="http://www.clickz.com/icom_includes/feeds/clickz/news-news-10.xml"/>
+    <outline htmlUrl="http://www.clickz.com/" title="ClickZ Stats" type="rss" xmlUrl="http://www.clickz.com/icom_includes/feeds/clickz/stats-stats-10.xml"/>
+    <outline htmlUrl="http://www.danavan.net/weblog/" title="Dana VanDen Heuvel" type="rss" xmlUrl="http://feeds.feedburner.com/DanasBlog-InternetMarketingAndSalesTechnologyIdeasFromTheTrenches"/>
+    <outline htmlUrl="http://blogs.hillandknowlton.com/blogs/niallcook/default.aspx" title="Marketing Technology" type="rss" xmlUrl="http://blogs.hillandknowlton.com/blogs/niallcook/rss.aspx"/>
+    <outline htmlUrl="http://www.MarketingProfs.com/" title="MarketingProfs.com" type="rss" xmlUrl="http://www.marketingprofs.com/xmlarticles/rss.asp"/>
+    <outline htmlUrl="http://www.marketingvox.com/" title="MarketingVOX - The Voice of Online Marketing" type="rss" xmlUrl="http://feeds.feedburner.com/marketingvox/rss"/>
+    <outline htmlUrl="http://searchenginewatch.com/" title="Search Engine Watch" type="rss" xmlUrl="http://feeds.searchenginewatch.com/sew"/>
+    <outline htmlUrl="http://www.marketingstudies.net/" title="The RSS and Marketing Diary" type="rss" xmlUrl="http://www.marketingstudies.net/rss/index.rdf"/>
+    <outline htmlUrl="http://www.webinknow.com/" title="Web Ink Now" type="rss" xmlUrl="http://www.webinknow.com/index.rdf"/>
+    <outline htmlUrl="http://www.brandweek.com" title="Brandweek: Today's Most Viewed Articles" type="rss" xmlUrl="http://api.clickability.com/api?encq=WY0NWau9WPw1nLzJyckZXZ0NTP2MjMmIHdwlTZW1nJpRWb9UAR%3D%3D"/>
+    <outline htmlUrl="http://www.forrester.com/" title="Forrester Research: Forrester Business View" type="rss" xmlUrl="http://www.forrester.com/find/rss?N=50683+105&amp;feed=Forrester+Business+View&amp;rssTitle=Forrester+Business+View"/>
+    <outline htmlUrl="http://weblogs.jupiterresearch.com/analysts/stein/" title="Gary Stein" type="rss" xmlUrl="http://weblogs.jupiterresearch.com/analysts/stein/index.xml"/>
+    <outline htmlUrl="http://boldapproach.typepad.com/bold/" title="Marketing - The Bold Approach Method" type="rss" xmlUrl="http://boldapproach.typepad.com/bold/atom.xml"/>
+    <outline htmlUrl="http://www.micropersuasion.com/" title="Micro Persuasion" type="rss" xmlUrl="http://feeds.feedburner.com/MicroPersuasion"/>
+    <outline htmlUrl="http://www.newcommblogzine.com" title="New Communications Blogzine" type="rss" xmlUrl="http://feeds.feedburner.com/newcommblogzine"/>
+    <outline htmlUrl="http://www.nytimes.com" title="NYT &amp;gt; Media and Advertising" type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml"/>
+    <outline htmlUrl="http://www.edelman.com/speak_up/blog/" title="Speak Up" type="rss" xmlUrl="http://www.edelman.com/speak_up/blog/index.rdf"/>
+   </outline>
+   <outline title="[10] IT">
+    <outline title="[10] Computers">
+     <outline htmlUrl="http://www.apple.com/hotnews/" title="Apple Hot News" type="rss" xmlUrl="http://www.apple.com/main/rss/hotnews/hotnews.rss"/>
+     <outline htmlUrl="http://aboutcomputers.blogspot.com" title="Computer Technology" type="rss" xmlUrl="http://aboutcomputers.blogspot.com/atom.xml"/>
+     <outline htmlUrl="http://www.computertimes.it/" title="Computers News feed" type="rss" xmlUrl="http://www.computertimes.it/rss.xml"/>
+     <outline htmlUrl="http://express-press-release.com/Industries/Computers-press-releases.php" title="Computers Press Releases (EPR Network)" type="rss" xmlUrl="http://express-press-release.com/RSS/Computers.xml"/>
+     <outline htmlUrl="http://computersoftwarecenter.com/" title="Find Online Computer Tips , Search Online Computer Tips Info , Online Computer Tips Offer" type="rss" xmlUrl="http://computersoftwarecenter.com/xml/"/>
+     <outline htmlUrl="http://www.booch.com/architecture/" title="Handbook of Software Architecture" type="rss" xmlUrl="http://www.booch.com/architecture/blog/text/blog.xml"/>
+     <outline htmlUrl="http://radio.weblogs.com/0001011/" title="Scobleizer: Microsoft Geek Blogger" type="rss" xmlUrl="http://radio.weblogs.com/0001011/rss.xml"/>
+     <outline htmlUrl="http://www.tycoelectronics.com" title="Tyco Electronics Computer and Consumer Electronics News" type="rss" xmlUrl="http://www.tycoelectronics.com/AboutUs/news/xml/computer_xmlnewsfeed.asp"/>
+     <outline htmlUrl="http://www.virus.org/" title="Virus.Org" type="rss" xmlUrl="http://www.virus.org/backend.php"/>
+     <outline htmlUrl="http://www.wired.com" title="Wired News" type="rss" xmlUrl="http://www.wired.com/rss//index.xml"/>
+    </outline>
+   </outline>
+   <outline title="Informatics"/>
+   <outline title="Strategic Business Units"/>
+   <outline title="[67] Research and Development">
+    <outline title="[67] Research Areas">
+     <outline title="[12] Oncology">
+      <outline title="Oncology - Filtered" type="rss" xmlUrl="http://camlxlib02.the_company.com/services/rss/Oncology_filtered.xml"/>
+      <outline htmlUrl="http://annonc.oxfordjournals.org" title="Annals of Oncology - Advance Access" type="rss" xmlUrl="http://annonc.oxfordjournals.org/rss/ahead.xml"/>
+      <outline htmlUrl="http://www.medicalnewstoday.com/sections/cancer-oncology/" title="Cancer / Oncology News From Medical News Today" type="rss" xmlUrl="http://www.medicalnewstoday.com/rss/cancer-oncology.xml"/>
+      <outline htmlUrl="http://news.google.com/news?hl=en&amp;tab=wn&amp;ned=us&amp;q=cancer+or+oncology&amp;ie=ISO-8859-1" title="cancer or oncology - Google News" type="rss" xmlUrl="http://news.google.com/news?hl=en&amp;tab=wn&amp;ned=us&amp;q=cancer+or+oncology&amp;ie=UTF-8&amp;nolr=1&amp;output=rss"/>
+      <outline htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=7KE36sSI3RGo__DtpQt1Yg" title="Cancer R&amp;D" type="rss" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=7KE36sSI3RGo__DtpQt1Yg&amp;_render=rss"/>
+      <outline htmlUrl="http://www.co-oncology.com/pt/re/cooncology/currenttoc.htm" title="Current Opinion in Oncology - Current Table Of Content" type="rss" xmlUrl="http://www.co-oncology.com/pt/re/cooncology/toccurrentrss.xml;jsessionid=FbWb9ng9PsQnybxpYp1qntLJ3xCpMgz8BZv3VVs7xvtFp62nq8GT!641301743!-949856144!8091!-1"/>
+      <outline htmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/HematologyOncology.xml" title="MedPage Today Hematology/Oncology" type="rss" xmlUrl="http://www.medpagetoday.com/rss/HematologyOncology.xml"/>
+      <outline htmlUrl="http://www.medscape.com/hematology-oncology" title="Medscape Hematology-Oncology Headlines" type="rss" xmlUrl="http://www.medscape.com/cx/rssfeeds/Hematology-Oncology.xml"/>
+      <outline htmlUrl="http://www.medworm.com/rss/index.php/Cancer-%26-Oncology/6/" title="MedWorm: Cancer &amp; Oncology" type="rss" xmlUrl="http://www.medworm.com/rss/medicalfeeds/specialities/Cancer-Oncology.xml"/>
+      <outline htmlUrl="http://www.nature.com/ncponc/current_issue/" title="Nature Clinical Practice Oncology" type="rss" xmlUrl="http://www.nature.com/ncponc/current_issue/rss/index.html"/>
+      <outline htmlUrl="http://www.thelancet.com/journals/lanonc" title="The Lancet Oncology" type="rss" xmlUrl="http://multimedia.thelancet.com/rss/lanonc_current.xml"/>
+      <outline htmlUrl="http://news.yahoo.com/i/1285" title="Yahoo! News: Health - Cancer" type="rss" xmlUrl="http://rss.news.yahoo.com/rss/cancer"/>
+     </outline>
+     <outline title="[15] Neurology">
+      <outline title="Neurology - Filtered" type="rss" xmlUrl="http://camlxlib02.the_company.com/services/rss/Neurology_filtered.xml"/>
+      <outline htmlUrl="http://www3.interscience.wiley.com/journal/76507645/home" title="Annals of Neurology" type="rss" xmlUrl="http://www3.interscience.wiley.com/rss/journal/76507645"/>
+      <outline htmlUrl="http://archneur.ama-assn.org" title="Archives of Neurology current issue" type="rss" xmlUrl="http://archneur.ama-assn.org/rss/current.xml"/>
+      <outline htmlUrl="http://www.co-neurology.com/pt/re/coneuro/currenttoc.htm" title="Current Opinion in Neurology - Current Table Of Contents" type="rss" xmlUrl="http://www.co-neurology.com/pt/re/coneuro/toccurrentrss.xml;jsessionid=GykYFn6Ymf125hhLD0cGBv19vhpHwnnD1Qz2mqF9CF51dsqFwg4p!3145886!-949856145!8091!-1"/>
+      <outline htmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Neurology.xml" title="MedPage Today Neurology" type="rss" xmlUrl="http://www.medpagetoday.com/rss/Neurology.xml"/>
+      <outline htmlUrl="http://www.medscape.com/neurology" title="Medscape Neurology and Neurosurgery Headlines" type="rss" xmlUrl="http://www.medscape.com/cx/rssfeeds/Neurology.xml"/>
+      <outline htmlUrl="http://www.neurology.org" title="Neurology current issue" type="rss" xmlUrl="http://www.neurology.org/rss/current.xml"/>
+      <outline htmlUrl="http://www.sciencedaily.com/news/health_medicine/multiple_sclerosis/" title="ScienceDaily: Multiple Sclerosis Research News" type="rss" xmlUrl="http://www.sciencedaily.com/rss/health_medicine/multiple_sclerosis.xml"/>
+      <outline htmlUrl="http://www.thelancet.com/journals/laneur" title="The Lancet Neurology" type="rss" xmlUrl="http://multimedia.thelancet.com/rss/laneur_current.xml"/>
+      <outline htmlUrl="http://www.clinicaltrials.gov" title="ClinicalTrials.gov - Multiple Sclerosis" type="rss" xmlUrl="http://www.clinicaltrials.gov/ct2/results/rss.xml?term=multiple+sclerosis&amp;rcv_d=14&amp;count=1000"/>
+      <outline htmlUrl="http://news.google.com/news?hl=en&amp;tab=wn&amp;ned=us&amp;q=%22Multiple+Sclerosis%22&amp;ie=UTF-8&amp;nolr=1&amp;output=rss" title="Multiple Sclerosis - Google News" type="rss" xmlUrl="http://news.google.com/news?hl=en&amp;tab=wn&amp;ned=us&amp;q=%22Multiple+Sclerosis%22&amp;ie=UTF-8&amp;nolr=1&amp;output=rss"/>
+      <outline htmlUrl="http://www.medworm.com/rss/search.php?qu=%22Multiple+Sclerosis%22&amp;t=Multiple%20Sclerosis&amp;f=c&amp;s=Search&amp;r=Any&amp;o=d" title="MedWorm: Multiple Sclerosis" type="rss" xmlUrl="http://www.medworm.com/rss/medicalfeeds/conditions/Multiple-Sclerosis.xml"/>
+      <outline htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=5152f0f8ca51a33a38c927207b979a32" title="Neurology R&amp;D" type="rss" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=5152f0f8ca51a33a38c927207b979a32&amp;_render=rss"/>
+      <outline htmlUrl="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&amp;db=pubmed&amp;term=multiple%20sclerosis" title="PubMed: multiple sclerosis" type="rss" xmlUrl="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=0_QbhPeGFhljie82UJJZNXNmX271qDIas15rH4YQ3P"/>
+      <outline htmlUrl="http://news.search.yahoo.com/search/news?p=%22Multiple+Sclerosis%22&amp;ei=UTF-8" title="Yahoo! News Search Results for Multiple Sclerosis" type="rss" xmlUrl="http://news.search.yahoo.com/news/rss?ei=UTF-8&amp;p=%22Multiple+Sclerosis%22&amp;c=&amp;eo=UTF-8"/>
+     </outline>
+     <outline title="[23] Rheumatology">
+      <outline htmlUrl="http://www.clinexprheumatol.org/" title="Clinical and Experimental Rheumatology" type="rss" xmlUrl="http://www.clinexprheumatol.org/rss-recent-issue.asp"/>
+      <outline htmlUrl="http://www.co-rheumatology.com/pt/re/corheum/currenttoc.htm" title="Current Opinion in Rheumatology" type="rss" xmlUrl="http://www.co-rheumatology.com/pt/re/corheum/toccurrentrss.xml"/>
+      <outline htmlUrl="http://news.google.com/news?svnum=10&amp;as_scoring=r&amp;hl=en&amp;ned=us&amp;ie=UTF-8&amp;q=fibromyalgia&amp;output=rss" title="Google News - Fibromyalgia" type="rss" xmlUrl="http://news.google.com/news?svnum=10&amp;as_scoring=r&amp;hl=en&amp;ned=us&amp;ie=UTF-8&amp;q=fibromyalgia&amp;output=rss"/>
+      <outline htmlUrl="http://news.google.com/news?hl=en&amp;ned=us&amp;ie=UTF-8&amp;q=lupus+OR+%22systematic+lupus+erythematosus%22+OR+%22lupus+nephritis%22&amp;btnG=Search" title="Google News - Lupus" type="rss" xmlUrl="http://news.google.com/news?hl=en&amp;ned=us&amp;ie=UTF-8&amp;q=lupus+OR+%22systematic+lupus+erythematosus%22+OR+%22lupus+nephritis%22&amp;output=rss"/>
+      <outline htmlUrl="http://news.google.com/news?svnum=10&amp;as_scoring=r&amp;hl=en&amp;ned=us&amp;ie=UTF-8&amp;q=osteoarthritis&amp;output=rss" title="Google News - Osteoarthritis" type="rss" xmlUrl="http://news.google.com/news?svnum=10&amp;as_scoring=r&amp;hl=en&amp;ned=us&amp;ie=UTF-8&amp;q=osteoarthritis&amp;output=rss"/>
+      <outline htmlUrl="http://news.google.com/news?svnum=10&amp;as_scoring=r&amp;as_drrb=q&amp;as_qdr=&amp;as_mind=18&amp;as_minm=8&amp;as_maxd=17&amp;as_maxm=9&amp;q=rheumatoid+arthritis&amp;ie=UTF-8&amp;output=rss" title="Google News - Rheumatoid Arthritis" type="rss" xmlUrl="http://news.google.com/news?svnum=10&amp;as_scoring=r&amp;as_drrb=q&amp;as_qdr=&amp;as_mind=18&amp;as_minm=8&amp;as_maxd=17&amp;as_maxm=9&amp;q=rheumatoid+arthritis&amp;ie=UTF-8&amp;output=rss"/>
+      <outline htmlUrl="http://news.google.com/news?svnum=10&amp;as_scoring=r&amp;hl=en&amp;ned=us&amp;ie=UTF-8&amp;q=scleroderma&amp;output=rss" title="Google News - Scleroderma" type="rss" xmlUrl="http://news.google.com/news?svnum=10&amp;as_scoring=r&amp;hl=en&amp;ned=us&amp;ie=UTF-8&amp;q=scleroderma&amp;output=rss"/>
+      <outline htmlUrl="http://news.google.com/news?svnum=10&amp;as_scoring=r&amp;hl=en&amp;ned=us&amp;ie=UTF-8&amp;q=sjogren%27s+syndrome&amp;output=rss" title="Google News - Sjogren's syndrome" type="rss" xmlUrl="http://news.google.com/news?svnum=10&amp;as_scoring=r&amp;hl=en&amp;ned=us&amp;ie=UTF-8&amp;q=sjogren%27s+syndrome&amp;output=rss"/>
+      <outline htmlUrl="http://www.jclinrheum.com/pt/re/jcr/currenttoc.htm" title="Journal of Clinical Rheumatology" type="rss" xmlUrl="http://www.jclinrheum.com/pt/re/jcr/rss.htm;jsessionid=GBMMPVyksCky0DVLyhZxjQy5PjHGjyCVBQfp4q3pX56h8PDHtn4J!-1252834976!181195628!8091!-1"/>
+      <outline htmlUrl="http://www.medpagetoday.com/Rheumatology/" title="MedPage Today - Rheumatology" type="rss" xmlUrl="http://www.medpagetoday.com/rss/Rheumatology.xml"/>
+      <outline htmlUrl="http://www.medscape.com/rheumatology" title="Medscape Rheumatology" type="rss" xmlUrl="http://www.medscape.com/cx/rssfeeds/Rheumatology.xml"/>
+      <outline htmlUrl="http://www.nature.com/ncprheum/journal/v3/n6/index.html" title="Nature Clinical Practice Rheumatology" type="rss" xmlUrl="http://www.nature.com/ncprheum/current_issue/rss/index.html"/>
+      <outline htmlUrl="http://www.peerviewpress.com/specificTopic.do?topic=Rheumatology" title="PeerView CME/CE Audio Podcast - Rheumatology" type="rss" xmlUrl="http://podcast.peerviewpress.com/rheumatology/rheumatologychannel.xml"/>
+      <outline htmlUrl="http://www.ncbi.nlm.nih.gov/sites/entrez" title="PubMed: Fibromyalgia" type="rss" xmlUrl="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=0rXKkk4uJhSIVbgrjsvU149Gi4Cr3na15Tg6FCsvaRp"/>
+      <outline htmlUrl="http://www.ncbi.nlm.nih.gov/sites/entrez" title="PubMed: Lupus" type="rss" xmlUrl="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=0v-uJH56bfBtUv8qZsT7PnNeCi2LPQWf2uHVQrcwk8H"/>
+      <outline htmlUrl="http://www.ncbi.nlm.nih.gov/sites/entrez" title="PubMed: Osteoarthritis" type="rss" xmlUrl="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=0DamdKQx8JRpU_sfYtYTG4MpW_0Y36NbGdbkBzQKw0x"/>
+      <outline htmlUrl="http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=Search&amp;db=pubmed&amp;term=rheumatology" title="PubMed: Rheumatology" type="rss" xmlUrl="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=0UaUjPzmoBkegDPETdxjIk_7Si3e3SLmylxsufQwlCI"/>
+      <outline htmlUrl="http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=Search&amp;db=pubmed&amp;term=rheumatology" title="PubMed: Rheumatology" type="rss" xmlUrl="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=0UaUjPzmoBkegDPETdxjIk_7Si3e3SLmylxsufQwlCI"/>
+      <outline htmlUrl="http://www.ncbi.nlm.nih.gov/sites/entrez" title="PubMed: Scleroderma" type="rss" xmlUrl="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=0ABWc4Ao0gxVARethZ7yQHz1hbeFYsGDCkiXBvUdi8I"/>
+      <outline htmlUrl="http://www.ncbi.nlm.nih.gov/sites/entrez" title="PubMed: Sjogren's Syndrome" type="rss" xmlUrl="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=0ASd5BJlf9JHYReL8ZVM6Fm1hi_v3DoDAlAYzCU5jQx"/>
+      <outline htmlUrl="http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=Search&amp;db=pubmed&amp;term=TNF%20or%20%22tumor%20necrosis%20factor%22%20AND%20%28%22Arthritis%20and%20rheumatism%22%5BJour%5D%20OR%20%22British%20journal%20of%20rheumatology%22%5BJour%5D%20OR%20%22The%20Journal" title="PubMed: TNF OR Tumor Necrosis Factor" type="rss" xmlUrl="http://eutils.ncbi.nlm.nih.gov/entrez/eutils/erss.cgi?rss_guid=0IA-JS3fxPUuu6kXRy5vs9J9C23Nv55wqZLJfqcVBCD"/>
+      <outline htmlUrl="http://www.doctorslounge.com/rheumatology/" title="The Doctors Lounge - Rheumatology" type="rss" xmlUrl="http://www.doctorslounge.com/rss/rheumatology.xml"/>
+      <outline title="Rheumatology - Filtered" type="rss" xmlUrl="http://camlxlib02.the_company.com/services/rss/Rheumatology_filtered.xml"/>
+     </outline>
+     <outline title="Clinical Operations"/>
+     <outline title="[0] Regulatory Affairs">
+      <outline title="Regulatory Affairs / Drug Approvals News From Medical News Today"/>
+     </outline>
+     <outline title="[9] Cardiopulmonary">
+      <outline title="Cardiopulmonary - Filtered" type="rss" xmlUrl="http://camlxlib02.the_company.com/services/rss/Cardiopulmonary_filtered.xml"/>
+      <outline htmlUrl="http://www.medicalnewstoday.com/sections/cardiovascular/" title="Cardiovascular / Cardiology News From Medical News Today" type="rss" xmlUrl="http://www.medicalnewstoday.com/rss/cardiovascular-cardiology.xml"/>
+      <outline htmlUrl="http://www.co-cardiology.com/pt/re/cocardio/currenttoc.htm" title="Current Opinion in Cardiology - Current Table Of Contents" type="rss" xmlUrl="http://www.co-cardiology.com/pt/re/cocardio/toccurrentrss.xml"/>
+      <outline htmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Cardiology.xml" title="MedPage Today Cardiovascular" type="rss" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Cardiology.xml"/>
+      <outline htmlUrl="http://www.medscape.com/cardiology" title="Medscape Cardiology Headlines" type="rss" xmlUrl="http://www.medscape.com/cx/rssfeeds/Cardiology.xml"/>
+      <outline htmlUrl="http://www.medscape.com/pulmonarymedicine" title="Medscape Pulmonary Medicine Headlines" type="rss" xmlUrl="http://www.medscape.com/cx/rssfeeds/pulmonarymedicine.xml"/>
+      <outline htmlUrl="http://www.medworm.com/rss/index.php/Cardiology/7/" title="MedWorm: Cardiology" type="rss" xmlUrl="http://www.medworm.com/rss/medicalfeeds/specialities/Cardiology.xml"/>
+      <outline htmlUrl="http://news.google.com/news?hl=en&amp;tab=wn&amp;ned=us&amp;q=cardiopulmonary+OR+cardiology+OR+cardiovascular&amp;ie=ISO-8859-1" title="cardiopulmonary OR cardiology OR cardiovascular - Google News" type="rss" xmlUrl="http://news.google.com/news?hl=en&amp;tab=wn&amp;ned=us&amp;q=cardiopulmonary+OR+cardiology+OR+cardiovascular&amp;ie=UTF-8&amp;nolr=1&amp;output=rss"/>
+      <outline htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=bae88be7a49bb567e8cdfc4ff472db00" title="Cardiopulmonary" type="rss" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=bae88be7a49bb567e8cdfc4ff472db00&amp;_render=rss"/>
+     </outline>
+     <outline title="[8] Immunology">
+      <outline title="Immunology - Filtered" type="rss" xmlUrl="http://camlxlib02.the_company.com/services/rss/Immunology_filtered.xml"/>
+      <outline htmlUrl="http://news.google.com/news?hl=en&amp;tab=wn&amp;ned=us&amp;q=immunology&amp;ie=ISO-8859-1" title="immunology - Google News" type="rss" xmlUrl="http://news.google.com/news?hl=en&amp;tab=wn&amp;ned=us&amp;q=immunology&amp;ie=UTF-8&amp;nolr=1&amp;output=rss"/>
+      <outline htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=44989a67a00d9f8303cbac62760b46e0" title="Immunology and Autoimmune Disease R&amp;D" type="rss" xmlUrl="http://pipes.yahoo.com/pipes/pipe.run?_id=44989a67a00d9f8303cbac62760b46e0&amp;_render=rss"/>
+      <outline htmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/AllergyImmunology.xml" title="MedPage Today Allergy &amp; Immunology" type="rss" xmlUrl="http://www.medpagetoday.com/rss/AllergyImmunology.xml"/>
+      <outline htmlUrl="http://www.medscape.com/allergy-immunology" title="Medscape Allergy &amp; Clinical Immunology Headlines" type="rss" xmlUrl="http://www.medscape.com/cx/rssfeeds/Allergy.xml"/>
+      <outline htmlUrl="http://www.medworm.com/rss/index.php/Allergy-%26-Immunology/3/" title="MedWorm: Allergy &amp; Immunology" type="rss" xmlUrl="http://www.medworm.com/rss/medicalfeeds/specialities/Allergy-Immunology.xml"/>
+      <outline htmlUrl="http://www.nature.com/ni/current_issue/" title="Nature Immunology" type="rss" xmlUrl="http://www.nature.com/ni/current_issue/rss/index.html"/>
+      <outline htmlUrl="http://www.nature.com/nri/current_issue/" title="Nature Reviews Immunology" type="rss" xmlUrl="http://www.nature.com/nri/current_issue/rss/index.html"/>
+     </outline>
+    </outline>
+   </outline>
+   <outline title="[17] Finance">
+    <outline htmlUrl="http://www.allbusiness.com/business_advice/Center.asp?ID=32" title="AllBusiness.com - Finance &amp;amp; Accounting Articles" type="rss" xmlUrl="http://www.allbusiness.com/ws/cms/cms.asmx/RSS_Center?Center_ID=32"/>
+    <outline htmlUrl="http://www.bizjournals.com/industries/banking_financial_services/investment_banking/" title="bizjournals.com Banking &amp;amp; Financial Services:Investment Banking headlines" type="rss" xmlUrl="http://www.bizjournals.com/rss/feed/vertical_subtopic/3"/>
+    <outline htmlUrl="http://www.bizjournals.com/industries/banking_financial_services/venture_capital/" title="bizjournals.com Banking &amp;amp; Financial Services:Venture Capital headlines" type="rss" xmlUrl="http://www.bizjournals.com/rss/feed/vertical_subtopic/10"/>
+    <outline htmlUrl="http://www.bloomberg.com/news/top.html" title="Bloomberg" type="rss" xmlUrl="http://www.newslookup.com/rss/business/bloomberg.rdf"/>
+    <outline htmlUrl="http://jobfunctions.bnet.com/" title="BNET.com - Recent Financial Statements White Papers" type="rss" xmlUrl="http://jobfunctions.bnet.com/xml/RSS-1586.xml"/>
+    <outline htmlUrl="http://www.cfo.com" title="CFO.com Blog: Ron's Rant" type="rss" xmlUrl="http://www.cfo.com/rss/cfo_blog.xml"/>
+    <outline htmlUrl="http://www.cfo.com/" title="CFO.com: Today in Finance" type="rss" xmlUrl="http://www.cfo.com/rss/cfo_today_in_finance.xml"/>
+    <outline htmlUrl="http://money.cnn.com/" title="CNN/Money - Technology" type="rss" xmlUrl="http://rss.cnn.com/rss/money_technology.rss"/>
+    <outline htmlUrl="http://www.ecommercetimes.com/" title="E-Commerce Times" type="rss" xmlUrl="http://www.ecommercetimes.com/perl/syndication/rssfull.pl"/>
+    <outline htmlUrl="http://www.eweek.com/" title="eWeek Finance" type="rss" xmlUrl="http://rssnewsapps.ziffdavis.com/eweek_finance.xml"/>
+    <outline htmlUrl="http://news.ft.com/home/us/" title="FT.com / Home US" type="rss" xmlUrl="http://news.ft.com/rss/home/us"/>
+    <outline htmlUrl="http://news.ft.com/markets/" title="FT.com / Markets" type="rss" xmlUrl="http://news.ft.com/rss/markets"/>
+    <outline htmlUrl="http://news.ft.com/world/" title="FT.com / World" type="rss" xmlUrl="http://news.ft.com/rss/world"/>
+    <outline htmlUrl="http://www.industryanalystreporter.com/" title="Industry Analyst Reporter - Analyst Firm News" type="rss" xmlUrl="http://tekrati.com/arnews-rss.asp"/>
+    <outline htmlUrl="http://www.smartmoney.com/" title="Smartmoney.com" type="rss" xmlUrl="http://www.smartmoney.com/rss/smheadlines.cfm?feed=1&amp;format=RSS20"/>
+    <outline htmlUrl="http://www.usatoday.com/money/" title="USATODAY.com Money - Top Stories" type="rss" xmlUrl="http://rssfeeds.usatoday.com/UsatodaycomMoney-TopStories"/>
+    <outline htmlUrl="http://www.ventureblogs.com/" title="Ventureblogs" type="rss" xmlUrl="http://www.ventureblogs.com/ventureblogs/index.rdf"/>
+   </outline>
+   <outline title="[10] HR">
+    <outline htmlUrl="http://www.forbes.com/news/" title="Forbes.com News" type="rss" xmlUrl="http://www.forbes.com/news/index.xml"/>
+    <outline htmlUrl="http://www.businessweek.com/" title="BusinessWeek Online -- Most Popular" type="rss" xmlUrl="http://www.businessweek.com/topStories/rss/topStories.rss"/>
+    <outline htmlUrl="http://www.bnet.com" title="Human Resources - www.bnet.com" type="rss" xmlUrl="http://www.bnet.com/rss.aspx?id=3"/>
+    <outline htmlUrl="http://www.strategichrlawyer.com/weblog/" title="Strategic HR Lawyer" type="rss" xmlUrl="http://www.strategichrlawyer.com/weblog/index.rdf"/>
+    <outline htmlUrl="http://www.shrm.org" title="SHRM Online: HR News" type="rss" xmlUrl="http://www.shrm.org/shrmnewsfeeds/createmyfeedxml.asp?nchannel=m&amp;MaxArticles=20"/>
+    <outline htmlUrl="http://www.shrm.org" title="SHRM Online Recruiting &amp; Staffing News" type="rss" xmlUrl="http://www.shrm.org/shrmnewsfeeds/createmyfeedxml.asp?nchannel=ema&amp;MaxArticles=20"/>
+    <outline htmlUrl="http://www.shrm.org" title="SHRM Online Compensation &amp; Benefits News" type="rss" xmlUrl="http://www.shrm.org/shrmnewsfeeds/createmyfeedxml.asp?nchannel=comp&amp;MaxArticles=20"/>
+    <outline htmlUrl="http://www.shrm.org" title="SHRM Online Global HR News" type="rss" xmlUrl="http://www.shrm.org/shrmnewsfeeds/createmyfeedxml.asp?nchannel=global&amp;MaxArticles=20"/>
+    <outline htmlUrl="http://www.shrm.org" title="SHRM Online Diversity News" type="rss" xmlUrl="http://www.shrm.org/shrmnewsfeeds/createmyfeedxml.asp?nchannel=div&amp;MaxArticles=20"/>
+    <outline htmlUrl="http://www.shrm.org" title="SHRM Online Employment Laws and Regulations News" type="rss" xmlUrl="http://www.shrm.org/shrmnewsfeeds/createmyfeedxml.asp?nchannel=law&amp;MaxArticles=20"/>
+   </outline>
+   <outline title="[18] Library">
+    <outline title="Text Mining"/>
+    <outline title="Digital Library"/>
+    <outline title="Library Mgmt"/>
+    <outline title="[18] Table of Contents">
+     <outline htmlUrl="http://www.informaworld.com/smpp/title~content=t713597273~db=all" title="Journal of Liquid Chromatography &amp; Related Technologies: Articles recently published in" type="rss" xmlUrl="http://www.informaworld.com/ampp/rss~content=t713597273"/>
+     <outline htmlUrl="http://dx.doi.org/10.1002%2F%28ISSN%291522-2683" title="ELECTROPHORESIS" type="rss" xmlUrl="http://www3.interscience.wiley.com/rss/journal/10008330"/>
+     <outline htmlUrl="http://dx.doi.org/10.1002%2F%28ISSN%291097-0231" title="Rapid Communications in Mass Spectrometry" type="rss" xmlUrl="http://www3.interscience.wiley.com/rss/journal/4849"/>
+     <outline htmlUrl="http://dx.doi.org/10.1002%2F%28ISSN%291096-9888" title="Journal of Mass Spectrometry" type="rss" xmlUrl="http://www3.interscience.wiley.com/rss/journal/6043"/>
+     <outline htmlUrl="http://glycob.oxfordjournals.org" title="Glycobiology - recent issues" type="rss" xmlUrl="http://glycob.oxfordjournals.org/rss/recent.xml"/>
+     <outline htmlUrl="http://dx.doi.org/10.1002%2F%28ISSN%291099-0801" title="Biomedical Chromatography" type="rss" xmlUrl="http://www3.interscience.wiley.com/rss/journal/2770"/>
+     <outline htmlUrl="http://jchemed.chem.wisc.edu/" title="WoK Search: J of Chem Edu" type="rss" xmlUrl="http://rss.isiknowledge.com/rss?e=c84829aadc8c3ace&amp;c=bacb56e4ed32f92abe7c9885c56bac96"/>
+     <outline htmlUrl="http://pubs.acs.org/journals/ancham/index.html" title="Analytical Chemistry" type="rss" xmlUrl="http://feeds.acs.org/acs/ancham"/>
+     <outline htmlUrl="http://www.informaworld.com/smpp/title~content=t713597227~db=all" title="Analytical Letters: Articles recently published in" type="rss" xmlUrl="http://www.informaworld.com/ampp/rss~content=t713597227"/>
+     <outline htmlUrl="http://www.springerlink.com" title="Chromatographia" type="rss" xmlUrl="http://www.springerlink.com/content/xl11555x3511/?sortorder=asc&amp;v=expanded&amp;export=rss"/>
+     <outline htmlUrl="http://dx.doi.org/10.1002%2F%28ISSN%291615-9861" title="PROTEOMICS" type="rss" xmlUrl="http://www3.interscience.wiley.com/rss/journal/76510741"/>
+     <outline htmlUrl="http://www.ingentaconnect.com/content/pres/jcs/latest" title="J of Chromatographic Science" type="rss" xmlUrl="http://api.ingentaconnect.com/content/pres/jcs/latest?format=rss"/>
+     <outline htmlUrl="http://dx.doi.org/10.1002%2F%28ISSN%291615-9314" title="Journal of Separation Science" type="rss" xmlUrl="http://www3.interscience.wiley.com/rss/journal/76510662"/>
+     <outline htmlUrl="http://www.sciencedirect.com/science/journal/00032670" title="Analytica Chimica Acta" type="rss" xmlUrl="http://rss.sciencedirect.com/getMessage?registrationId=HHJHHIJHINJIPHKJJHJOHMKPJJJJMHJIKZLPKOQQOF"/>
+     <outline htmlUrl="http://www.sciencedirect.com/science/journal/00032697" title="Analytical Biochemistry" type="rss" xmlUrl="http://rss.sciencedirect.com/getMessage?registrationId=JHEFJIEFKNEGRHFHLHEMJMFOKHFLOMMLOZGNMQLJOB"/>
+     <outline htmlUrl="http://www.sciencedirect.com/science/journal/00219673" title="Journal of Chromotography A" type="rss" xmlUrl="http://rss.sciencedirect.com/getMessage?registrationId=EJGJEKGJFPGKMJHLGJGQEOHSEJIJFSJNIBIRHNPPNE"/>
+     <outline htmlUrl="http://www.sciencedirect.com/science/journal/03784347" title="J of Chromotography B" type="rss" xmlUrl="http://rss.sciencedirect.com/getMessage?registrationId=BAICBBICCGIDJAJEDAIJBFJKCJJIFIOCKSKKEBIKDA"/>
+     <outline htmlUrl="http://www.sciencedirect.com/science/journal/10440305" title="J of American Soc of Mass Spec" type="rss" xmlUrl="http://rss.sciencedirect.com/getMessage?registrationId=IFAEIGAEJLAFQFBFKFALIKCFJKCLLNBMPXCMLNFEMS"/>
+    </outline>
+   </outline>
+   <outline title="[0] the_company the_company News">
+    <outline title="[0] Internal News">
+     <outline title="Global Company News"/>
+     <outline title="[0] Site Related News">
+      <outline title="Cambridge Site"/>
+      <outline title="Nobel Site"/>
+      <outline title="RTP Site"/>
+      <outline title="Europe offices"/>
+      <outline title="Other offices"/>
+     </outline>
+     <outline title="[0] Social News">
+      <outline title="Cambridge Site"/>
+      <outline title="Nobel Site"/>
+      <outline title="RTP Site"/>
+      <outline title="Other offices"/>
+     </outline>
+     <outline title="Departmental News"/>
+    </outline>
+   </outline>
+  </outline>
+  <outline title="[40] News">
+   <outline title="[40] BioPharma News">
+    <outline title="[13] Health News">
+     <outline title="BioSpace Industry News"/>
+     <outline htmlUrl="http://www.bizjournals.com/industries/" title="bizjournals.com Health Care:Pharmaceuticals headlines" type="rss" xmlUrl="http://www.bizjournals.com/rss/feed/vertical_subtopic/36"/>
+     <outline htmlUrl="http://www.pharma-lexicon.com/pharmaceuticalcompanies.php" title="Medi Lexicon" type="rss" xmlUrl="http://www.medicalnewstoday.com/index.php?page=newsfeed"/>
+     <outline htmlUrl="http://www.nih.gov/news/" title="National Institutes of Health (NIH) Press Releases" type="rss" xmlUrl="http://www.nih.gov/news/feed.xml"/>
+     <outline htmlUrl="http://www.businessblogz.net/Pharmaceuticals" title="Pharmaceuticals News" type="rss" xmlUrl="http://www.businessblogz.net/Pharmaceuticals/wp-rss2.php"/>
+     <outline htmlUrl="http://www.forbes.com/healthcare/" title="Forbes.com Healthcare News" type="rss" xmlUrl="http://www.forbes.com/healthcare/index.xml"/>
+     <outline htmlUrl="http://www.amednews.com/" title="American Medical News - HEALTH" type="rss" xmlUrl="http://www.ama-assn.org/amednews/newsfeed/health.rss"/>
+     <outline htmlUrl="http://www.bizjournals.com/" title="bizjournals.com Health Care:Hospitals headlines" type="rss" xmlUrl="http://www.bizjournals.com/rss/feed/vertical_subtopic/35"/>
+     <outline htmlUrl="http://hcrenewal.blogspot.com" title="Health Care Renewal" type="rss" xmlUrl="http://hcrenewal.blogspot.com/atom.xml"/>
+     <outline htmlUrl="http://www.medscape.com/" title="Medscape Headlines" type="rss" xmlUrl="http://www.medscape.com/cx/rssfeeds/general.xml"/>
+     <outline htmlUrl="http://nnlm.gov/news/" title="NN/LM Announcements" type="rss" xmlUrl="http://nnlm.gov/news/xml-rss2.php"/>
+     <outline htmlUrl="http://www.nytimes.com/pages/health/" title="NYT &amp;gt; Health" type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Health.xml"/>
+     <outline htmlUrl="http://www.who.int/entity/mediacentre/news" title="WHO news" type="rss" xmlUrl="http://www.who.int/feeds/entity/mediacentre/news/en/rss.xml"/>
+     <outline htmlUrl="http://jama.ama-assn.org" title="JAMA-Journal of the American Medical Association" type="rss" xmlUrl="http://jama.ama-assn.org/rss/current.xml"/>
+    </outline>
+    <outline title="[0] FDA News">
+     <outline title="Food and Drug Administration Press Releases"/>
+     <outline title="Recalls"/>
+     <outline title="Enforcement Report"/>
+     <outline title="Upcoming Meetings"/>
+     <outline title="What's New: Center for Drug Evaluation and Research"/>
+     <outline title="What's New: Center for Biologics Evaluation and Research"/>
+     <outline title="MedWatch Safety Alerts"/>
+    </outline>
+    <outline title="[0] EMEA">
+     <outline title="News from EMEA from BioPortfolio.com"/>
+    </outline>
+    <outline title="[27] General News">
+     <outline htmlUrl="http://www.bbc.co.uk/" title="BBC News | Business | UK Edition" type="rss" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/business/rss.xml#"/>
+     <outline htmlUrl="http://www.bbc.co.uk/" title="BBC News | Technology | World Edition" type="rss" xmlUrl="http://news.bbc.co.uk/rss/newsonline_world_edition/technology/rss.xml"/>
+     <outline htmlUrl="http://www.betanews.com/" title="BetaNews.Com" type="rss" xmlUrl="http://www.betanews.com/rss2"/>
+     <outline htmlUrl="http://www.businessweek.com/bwdaily" title="BusinessWeek Online -- Top News" type="rss" xmlUrl="http://www.businessweek.com/rss/bwdaily.rss"/>
+     <outline htmlUrl="http://news.com.com/" title="CNET News.com" type="rss" xmlUrl="http://news.com.com/2547-1_3-0-5.xml"/>
+     <outline htmlUrl="http://www.cnn.com/rssclick/TECH/?section=cnn_tech" title="CNN.com - Technology" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_tech.rss"/>
+     <outline htmlUrl="http://www.computerworld.com" title="Computerworld E-business News" type="rss" xmlUrl="http://www.computerworld.com/news/xml/0,5000,52,00.xml"/>
+     <outline htmlUrl="http://www.econtentmag.com/" title="EContent RSS Feeds : Popular Articles" type="rss" xmlUrl="http://www.econtentmag.com/rss/default.aspx?Criteria=popularity&amp;days=10&amp;rows=10"/>
+     <outline htmlUrl="http://www.eweek.com" title="eWEEK Technology News" type="rss" xmlUrl="http://rssnewsapps.ziffdavis.com/tech.xml"/>
+     <outline htmlUrl="http://www.informationweek.com/" title="InformationWeek" type="rss" xmlUrl="http://www.informationweek.com/rss/news.jhtml"/>
+     <outline htmlUrl="http://www.internetnews.com" title="internetnews.com" type="rss" xmlUrl="http://www.internetnews.com/icom_includes/feeds/inews/xml_front-10.xml"/>
+     <outline htmlUrl="http://www.internetweek.com" title="InternetWeek" type="rss" xmlUrl="http://www.internetweek.com/rss/all.jhtml"/>
+     <outline htmlUrl="http://www.macnewsworld.com" title="MacNewsWorld" type="rss" xmlUrl="http://www.macnewsworld.com/perl/syndication/rssfull.pl"/>
+     <outline htmlUrl="http://www.marketwatch.com/" title="MarketWatch.com - Top Stories" type="rss" xmlUrl="http://www.marketwatch.com/rss/topstories/"/>
+     <outline htmlUrl="http://www.nytimes.com/" title="NYT &amp;gt; Circuits" type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Circuits.xml"/>
+     <outline htmlUrl="http://www.nytimes.com/" title="NYT &amp;gt; Technology" type="rss" xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/Technology.xml"/>
+     <outline htmlUrl="http://go.reuters.com" title="Reuters: Business" type="rss" xmlUrl="http://www.microsite.reuters.com/rss/businessNews"/>
+     <outline htmlUrl="http://www.reuters.com" title="Reuters: Technology" type="rss" xmlUrl="http://www.microsite.reuters.com/rss/technologyNews"/>
+     <outline htmlUrl="http://www.cbsnews.com/" title="Science News &amp;amp; Technology News: CBSnews.com" type="rss" xmlUrl="http://www.cbsnews.com/feeds/rss/scitech.rss"/>
+     <outline htmlUrl="http://www.spamdailynews.com/" title="Spam Daily News - Top Stories" type="rss" xmlUrl="http://feeds.spamdailynews.com/rss2.0/topstories.xml"/>
+     <outline htmlUrl="http://www.globetechnology.com/" title="The Globe and Mail - Technology News" type="rss" xmlUrl="http://www.theglobeandmail.com/generated/rss/BN/Technology.xml"/>
+     <outline htmlUrl="http://www.vnunet.com/" title="The most recent articles from VNU Business Publications" type="rss" xmlUrl="http://www.vnunet.com/feeds/rss/latest"/>
+     <outline htmlUrl="http://www.usatoday.com/tech/news/digest.htm" title="USATODAY.com Tech - Top Stories" type="rss" xmlUrl="http://rssfeeds.usatoday.com/usatoday-TechTopStories"/>
+     <outline htmlUrl="http://www.washingtonpost.com/" title="washingtonpost.com - Business" type="rss" xmlUrl="http://www.washingtonpost.com/wp-dyn/rss/business/index.xml"/>
+     <outline htmlUrl="http://www.washingtonpost.com/" title="washingtonpost.com - Technology - Industry News, Policy, and Reviews" type="rss" xmlUrl="http://www.washingtonpost.com/wp-dyn/rss/technology/index.xml"/>
+     <outline htmlUrl="http://www.wired.com/" title="Wired News: Technology" type="rss" xmlUrl="http://www.wired.com/news/feeds/rss2/0,2610,3,00.xml"/>
+     <outline htmlUrl="http://online.wsj.com" title="WSJ.com: What's News Technology" type="rss" xmlUrl="http://online.wsj.com/xml/rss/0,,3_7015,00.xml"/>
+    </outline>
+   </outline>
+  </outline>
+  <outline title="[6] Table of Contents">
+   <outline htmlUrl="http://www.biomedcentral.com/bmcbioinformatics/" title="BMC Bioinformatics - Latest articles" type="rss" xmlUrl="http://www.biomedcentral.com/bmcbioinformatics/rss/"/>
+   <outline htmlUrl="http://www.biomedcentral.com/bmcmedinformdecismak/" title="BMC Medical Informatics and Decision Making - Latest articles" type="rss" xmlUrl="http://www.biomedcentral.com/bmcmedinformdecismak/rss"/>
+   <outline htmlUrl="http://bib.oxfordjournals.org" title="Briefings in Bioinformatics - current issue" type="rss" xmlUrl="http://bib.oxfordjournals.org/rss/current.xml"/>
+   <outline htmlUrl="http://www.co-rheumatology.com/pt/re/corheum/currenttoc.htm" title="Current Opinion in Rheumatology - Current Table Of Contents" type="rss" xmlUrl="http://www.co-rheumatology.com/pt/re/corheum/toccurrentrss.xml"/>
+   <outline htmlUrl="http://www.sciencedirect.com" title="JAMIA (ScienceDirect)" type="rss" xmlUrl="http://rss.sciencedirect.com/getMessage?registrationId=JACAJBCAKGCBRADCLACHJFEBJJDEMFGHNSEIMJCCJQ"/>
+   <outline htmlUrl="http://www.jclinrheum.com/pt/re/jcr/currenttoc.htm" title="JCR: Journal of Clinical Rheumatology - Current Table Of Contents" type="rss" xmlUrl="http://feeds.feedburner.com/wolterskluwer/jcr/toccurrentrss?format=xml"/>
+  </outline>
+  <outline title="[11] Custom Alerts">
+   <outline title="[1] Group Alerts">
+    <outline title="[1] Library Staff">
+     <outline htmlUrl="http://lib.the_company.com" title="the_company the_company Library Website" type="rss" xmlUrl="http://lib.the_company.com/?q=trackerRSS"/>
+    </outline>
+   </outline>
+   <outline title="[2] Personal Alerts">
+    <outline title="[2] John Smith">
+     <outline htmlUrl="http://lib.the_company.com" title="the_company the_company Library Website" type="rss" xmlUrl="http://lib.the_company.com/?q=trackerRSS"/>
+     <outline htmlUrl="http://news.google.com/news?hl=en&amp;ned=us&amp;ie=UTF-8&amp;scoring=d&amp;q=%22follow-on+proteins%22+OR+%22follow-on+protein%22+OR+%22follow-on+biologic%22+OR+%22follow-on+biologics%22+OR+biosimilars+OR+biosimilar+OR+the_companyeric+OR+the_companyerics&amp;nolr=1" title="Biosimilar News - Google" type="rss" xmlUrl="http://news.google.com/news?hl=en&amp;ned=us&amp;ie=UTF-8&amp;scoring=d&amp;q=%22follow-on+proteins%22+OR+%22follow-on+protein%22+OR+%22follow-on+biologic%22+OR+%22follow-on+biologics%22+OR+biosimilars+OR+biosimilar+OR+the_companyeric+OR+the_companyerics&amp;nolr=1&amp;output=rss"/>
+    </outline>
+   </outline>
+   <outline title="[8] Virtual Library Alerts">
+    <outline htmlUrl="http://quosa.the_company.com/VLConsole/dlink.php?action=search_results&amp;vl_addr=http://quosa.the_company.com/cgi-isapi/&amp;vl_domain=&amp;searchfor=OneFolder&amp;VirtualLibrary=Biosimilars&amp;search_in_all_fields=0&amp;search_also_in_abstract=0&amp;contents=1&amp;folderId=1&amp;perpage=50&amp;pagenum=1&amp;sort_by=TI&amp;sort_dir=0" title="VL Biosimilars::Biosimilars" type="rss" xmlUrl="http://quosa.the_company.com/VLConsole/rss.php?action=search_results&amp;vl_addr=http://quosa.the_company.com/cgi-isapi/&amp;vl_domain=&amp;searchfor=OneFolder&amp;VirtualLibrary=Biosimilars&amp;search_in_all_fields=0&amp;search_also_in_abstract=0&amp;contents=1&amp;folderId=1"/>
+    <outline htmlUrl="http://quosa.the_company.com/VLConsole/dlink.php?action=search_results&amp;vl_addr=http://quosa.the_company.com/cgi-isapi/&amp;vl_domain=&amp;searchfor=OneFolder&amp;VirtualLibrary=Immunobiology&amp;search_in_all_fields=0&amp;search_also_in_abstract=0&amp;contents=2&amp;folderId=2&amp;perpage=50&amp;pagenum=1&amp;sort_by=TI&amp;sort_dir=0" title="VL Immunobiology::BCMA::Competitors" type="rss" xmlUrl="http://quosa.the_company.com/VLConsole/rss.php?action=search_results&amp;vl_addr=http://quosa.the_company.com/cgi-isapi/&amp;vl_domain=&amp;searchfor=OneFolder&amp;VirtualLibrary=Immunobiology&amp;search_in_all_fields=0&amp;search_also_in_abstract=0&amp;contents=2&amp;folderId=2"/>
+    <outline htmlUrl="http://quosa.the_company.com/VLConsole/dlink.php?action=search_results&amp;vl_addr=http://quosa.the_company.com/cgi-isapi/&amp;vl_domain=&amp;searchfor=OneFolder&amp;VirtualLibrary=Cardiopulmonary&amp;search_in_all_fields=0&amp;search_also_in_abstract=0&amp;contents=9&amp;folderId=9&amp;perpage=50&amp;pagenum=1&amp;sort_by=TI&amp;sort_dir=0" title="VL Cardiopulmonary::Pulmonary Hypertension general" type="rss" xmlUrl="http://quosa.the_company.com/VLConsole/rss.php?action=search_results&amp;vl_addr=http://quosa.the_company.com/cgi-isapi/&amp;vl_domain=&amp;searchfor=OneFolder&amp;VirtualLibrary=Cardiopulmonary&amp;search_in_all_fields=0&amp;search_also_in_abstract=0&amp;contents=9&amp;folderId=9"/>
+    <outline htmlUrl="http://quosa.the_company.com/VLConsole/dlink.php?action=search_results&amp;vl_addr=http://quosa.the_company.com/cgi-isapi/&amp;vl_domain=&amp;searchfor=OneFolder&amp;VirtualLibrary=Neuro%20RD&amp;search_in_all_fields=0&amp;search_also_in_abstract=0&amp;contents=1643&amp;folderId=1643&amp;perpage=50&amp;pagenum=1&amp;sort_by=TI&amp;sort_dir=0" title="VL Neuro RD::Immunotherapy" type="rss" xmlUrl="http://quosa.the_company.com/VLConsole/rss.php?action=search_results&amp;vl_addr=http://quosa.the_company.com/cgi-isapi/&amp;vl_domain=&amp;searchfor=OneFolder&amp;VirtualLibrary=Neuro%20RD&amp;search_in_all_fields=0&amp;search_also_in_abstract=0&amp;contents=1643&amp;folderId=1643"/>
+    <outline htmlUrl="http://quosa.the_company.com/VLConsole/dlink.php?action=search_results&amp;vl_addr=http://quosa.the_company.com/cgi-isapi/&amp;vl_domain=&amp;searchfor=OneFolder&amp;VirtualLibrary=Neuro%20RD&amp;search_in_all_fields=0&amp;search_also_in_abstract=0&amp;contents=1647&amp;folderId=1647&amp;perpage=50&amp;pagenum=1&amp;sort_by=TI&amp;sort_dir=0" title="VL Neuro RD::Microglia" type="rss" xmlUrl="http://quosa.the_company.com/VLConsole/rss.php?action=search_results&amp;vl_addr=http://quosa.the_company.com/cgi-isapi/&amp;vl_domain=&amp;searchfor=OneFolder&amp;VirtualLibrary=Neuro%20RD&amp;search_in_all_fields=0&amp;search_also_in_abstract=0&amp;contents=1647&amp;folderId=1647"/>
+    <outline htmlUrl="http://quosa.the_company.com/VLConsole/dlink.php?action=search_results&amp;vl_addr=http://quosa.the_company.com/cgi-isapi/&amp;vl_domain=&amp;searchfor=OneFolder&amp;VirtualLibrary=Cardiopulmonary&amp;search_in_all_fields=0&amp;search_also_in_abstract=0&amp;contents=6&amp;folderId=6&amp;perpage=50&amp;pagenum=1&amp;sort_by=TI&amp;sort_dir=0" title="VL Cardiopulmonary::Adenosine A1_Adentri" type="rss" xmlUrl="http://quosa.the_company.com/VLConsole/rss.php?action=search_results&amp;vl_addr=http://quosa.the_company.com/cgi-isapi/&amp;vl_domain=&amp;searchfor=OneFolder&amp;VirtualLibrary=Cardiopulmonary&amp;search_in_all_fields=0&amp;search_also_in_abstract=0&amp;contents=6&amp;folderId=6"/>
+    <outline htmlUrl="http://quosa.the_company.com/VLConsole/dlink.php?action=search_results&amp;vl_addr=http://quosa.the_company.com/cgi-isapi/&amp;vl_domain=&amp;searchfor=OneFolder&amp;VirtualLibrary=Immunobiology&amp;search_in_all_fields=0&amp;search_also_in_abstract=0&amp;contents=3&amp;folderId=3&amp;perpage=50&amp;pagenum=1&amp;sort_by=TI&amp;sort_dir=0" title="VL Immunobiology::BCMA::BCMA" type="rss" xmlUrl="http://quosa.the_company.com/VLConsole/rss.php?action=search_results&amp;vl_addr=http://quosa.the_company.com/cgi-isapi/&amp;vl_domain=&amp;searchfor=OneFolder&amp;VirtualLibrary=Immunobiology&amp;search_in_all_fields=0&amp;search_also_in_abstract=0&amp;contents=3&amp;folderId=3"/>
+    <outline htmlUrl="http://quosa.the_company.com/VLConsole/dlink.php?action=search_results&amp;vl_addr=http://quosa.the_company.com/cgi-isapi/&amp;vl_domain=&amp;searchfor=OneFolder&amp;VirtualLibrary=Cardiopulmonary&amp;search_in_all_fields=0&amp;search_also_in_abstract=0&amp;contents=8&amp;folderId=8&amp;perpage=50&amp;pagenum=1&amp;sort_by=TI&amp;sort_dir=0" title="VL Cardiopulmonary::PAH_Aviptadil" type="rss" xmlUrl="http://quosa.the_company.com/VLConsole/rss.php?action=search_results&amp;vl_addr=http://quosa.the_company.com/cgi-isapi/&amp;vl_domain=&amp;searchfor=OneFolder&amp;VirtualLibrary=Cardiopulmonary&amp;search_in_all_fields=0&amp;search_also_in_abstract=0&amp;contents=8&amp;folderId=8"/>
+   </outline>
+  </outline>
+  <outline title="[0] Company Clippings">
+   <outline title="Executive Team Clippings"/>
+   <outline title="My Manager's Clippings"/>
+   <outline title="My Team's Clippings"/>
+  </outline>
+ </outline>
+</outline>
